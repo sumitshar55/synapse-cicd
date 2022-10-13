@@ -1,0 +1,16 @@
+{
+	"name": "DestinationDataset_4sf",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureSqlMI4",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlMITable",
+		"schema": [],
+		"typeProperties": {
+			"table": "testpoc1"
+		}
+	},
+	"type": "Microsoft.Synapse/workspaces/datasets"
+}
