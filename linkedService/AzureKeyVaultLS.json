@@ -1,0 +1,10 @@
+{
+	"name": "AzureKeyVaultLS",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://testpoc2.vault.azure.net/"
+		}
+	}
+}
